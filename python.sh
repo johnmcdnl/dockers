@@ -15,5 +15,4 @@ docker pull python:2-alpine &
 docker pull python:2.7 &
 docker pull python:2-7-alpine &
 
-
 wait
